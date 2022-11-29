@@ -1,0 +1,32 @@
+--- !ruby/object:Game
+word: icons
+letters:
+- b
+- f
+- g
+- h
+- j
+- k
+- l
+- m
+- p
+- q
+- s
+- t
+- v
+- w
+- x
+- "y"
+- z
+fails:
+- a
+- e
+- u
+- d
+- r
+good:
+- i
+- o
+- c
+- "n"
+messages: save
